@@ -1,0 +1,15 @@
+/*********************************************
+
+BASIC CSS FORMATTING
+
+EVERYTHING SHOULD BE CENTERED AND BACKGROUND GREEN (24,28,8)
+
+**********************************************/
+
+body {
+  padding: 0;
+  margin-top: 5%;
+  display:flex;
+  justify-content: center;
+  align-content: center;
+}
