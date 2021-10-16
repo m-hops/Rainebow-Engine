@@ -7,12 +7,12 @@ let gameState = new GameState();
 
 //SET CANVAS PROPERTY//
 let canvas = {
-  dimensionW:500,
-  dimensionH:500,
+  dimensionW:1000,
+  dimensionH:700,
   color: {
-    r: 0,
-    g: 0,
-    b: 0
+    r: 9,
+    g: 3,
+    b: 15
   }
 }
 

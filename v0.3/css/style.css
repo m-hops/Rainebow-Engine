@@ -2,8 +2,6 @@
 
 BASIC CSS FORMATTING
 
-EVERYTHING SHOULD BE CENTERED AND BACKGROUND GREEN (24,28,8)
-
 **********************************************/
 
 body {
@@ -12,4 +10,5 @@ body {
   display:flex;
   justify-content: center;
   align-content: center;
+  background-color: rgb(9, 3, 15);
 }
